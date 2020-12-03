@@ -109,6 +109,7 @@
             <version>1.18.12</version>
             <scope>provided</scope>
         </dependency>
+
         <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
         <dependency>
             <groupId>com.google.code.gson</groupId>
@@ -144,7 +145,12 @@
             <version>11</version>
         </dependency>
 
-
+        <!-- https://mvnrepository.com/artifact/org.openjfx/javafx-base- FOR OPENJDK -->
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-base</artifactId>
+            <version>11</version>
+        </dependency>
 
     </dependencies>
 
